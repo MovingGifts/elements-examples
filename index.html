@@ -407,6 +407,12 @@
     </main>
   </div>
 
+  <script>
+    if('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js');
+  };
+  </script>
+  
   <!-- Simple localization script for Stripe's examples page. -->
   <script src="js/l10n.js" data-rel-js></script>
 

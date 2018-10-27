@@ -1,6 +1,6 @@
 {
-  "name": "Stripe App",
-  "short_name": "Stripe App",
+  "name": "StripeDemo",
+  "short_name": "StripeDemo",
   "icons": [
     {
       "src": "/stripedemo/img/apple-touch-icon/180x180.png",

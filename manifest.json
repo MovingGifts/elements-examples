@@ -1,0 +1,11 @@
+{
+  "name": "Stripe App",
+  "short_name": "Stripe App",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Stripe App Focus Issue",
+  "dir": "ltr",
+  "lang": "en-US"
+}

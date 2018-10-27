@@ -3,12 +3,42 @@
   "short_name": "Stripe App",
   "icons": [
     {
-      "src": "/img/apple-touch-icon/180x180.png",
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
       "type": "image/png",
-      "sizes": "180x180"
+      "sizes": "48x48"
+    },
+    {
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/stripedemo/img/apple-touch-icon/180x180.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/stripedemo/",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
